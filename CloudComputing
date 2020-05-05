@@ -20,7 +20,7 @@ With a public cloud, all hardware, software and other supporting infrastructure 
 Popular examples of public cloud are AWS provided by Amazon, Azure provided by Microsoft and GCP (Google Cloud Platform) provided by Google. 
 Other vendors include IBM, Oracle, etc.
 
-2)**Private**: A private cloud is a server, data center, or distributed network wholly dedicated to one organization. 
+2)Private: A private cloud is a server, data center, or distributed network wholly dedicated to one organization. 
 The private cloud can be physically located at your organization's on-site datacenter or it can be hosted by a third-party service provider. 
 But in a private cloud, the services and infrastructure are always maintained on a private network 
 and the hardware and software are dedicated solely to your organization.
